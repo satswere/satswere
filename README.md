@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm luis alberto</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-alberto78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-alberto78/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-alberto78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-alberto78/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://www.codewars.com/users/satswere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://www.codewars.com/users/satswere" height="30" width="40" /></a>
 </p>
 
